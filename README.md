@@ -1,4 +1,3 @@
 # IBM
-IBM Data Science Certification 
+This is my IBM Data Science Certification's notes and projects 
 
-## Hi 
