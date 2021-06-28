@@ -7,4 +7,5 @@ This is my IBM Data Science Certification's notes and projects
     1.1 Intro\
     1.2 String\
     1.3 List
+    1.4 Dictionaries
     
