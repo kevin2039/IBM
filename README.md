@@ -10,4 +10,5 @@ This is my IBM Data Science Certification's notes and projects
     1.4 Dictionaries\
     1.5 Sets\
     1.6 Conditions
+    1.7 Loops
     
