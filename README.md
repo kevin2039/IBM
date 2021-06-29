@@ -4,12 +4,16 @@ This is my IBM Data Science Certification's notes and projects
 ## Course Notes
 1. [Python for Data Science, AI & Development](https://github.com/kevin2039/IBM-Data-Science-Certification-Course/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
     ### Topics:
-    1.1 Intro\
-    1.2 String\
-    1.3 List\
-    1.4 Dictionaries\
-    1.5 Sets\
-    1.6 Conditions\
-    1.7 Loops\
-    1.8 Functions
+    #### Week1:
+    1.1.1 Intro\
+    1.1.2 String\
+    #### Week2:
+    1.2.1 List\
+    1.2.2 Dictionaries\
+    1.2.3 Sets\
+    #### Week3:
+    1.3.1 Conditions\
+    1.3.2 Loops\
+    1.3.3 Functions\
+    1.3.4 Exception Handling
     
