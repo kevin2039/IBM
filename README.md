@@ -6,11 +6,11 @@ This is my IBM Data Science Certification's notes and projects
     ### Topics:
     #### Week1:
     1.1.1 Intro\
-    1.1.2 String\
+    1.1.2 String
     #### Week2:
     1.2.1 List\
     1.2.2 Dictionaries\
-    1.2.3 Sets\
+    1.2.3 Sets
     #### Week3:
     1.3.1 Conditions\
     1.3.2 Loops\
